@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "逆廻りの命",
+  "base_artist": "霜月はるか",
+  "createdAt": "2026-02-07T14:49:04.136259Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆廻りの命",
+      "artist": "霜月はるか",
+      "has_synced": false,
+      "path": "select/pl_01_逆廻りの命_霜月はるか.txt"
+    }
+  ]
+}
